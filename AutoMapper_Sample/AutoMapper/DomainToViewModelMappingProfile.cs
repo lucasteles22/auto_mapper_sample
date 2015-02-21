@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using AutoMapper_Sample.AutoMapper.TypeConverter;
 using AutoMapper_Sample.Models;
 using AutoMapper_Sample.ViewModels;
 using System;
@@ -20,8 +21,7 @@ namespace AutoMapper_Sample.AutoMapper
             Mapper.CreateMap<News, NewsViewModel>();
             Mapper.CreateMap<Comment, CommentViewModel>();
             Mapper.CreateMap<Color, ColorViewModel>();
-
-            Mapper.CreateMap<Car, CarViewModel>();
+            Mapper.CreateMap<Car, CarViewModel>().ConvertUsing<CarToCarViewModel>();
         }
     }
 }

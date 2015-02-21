@@ -12,5 +12,10 @@ namespace AutoMapper_Sample.Models
         public string Name { get; set; }
 
         public virtual ICollection<Color> Colors { get; set; }
+
+        public Car()
+        {
+            this.Colors = new List<Color>();
+        }
     }
 }

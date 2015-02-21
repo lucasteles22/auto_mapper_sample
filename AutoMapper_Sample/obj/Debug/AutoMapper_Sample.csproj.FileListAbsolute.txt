@@ -70,3 +70,10 @@ D:\Projetos\auto_mapper_sample\AutoMapper_Sample\obj\Debug\AutoMapper_Sample.Mig
 D:\Projetos\auto_mapper_sample\AutoMapper_Sample\obj\Debug\AutoMapper_Sample.csproj.GenerateResource.Cache
 D:\Projetos\auto_mapper_sample\AutoMapper_Sample\obj\Debug\AutoMapper_Sample.dll
 D:\Projetos\auto_mapper_sample\AutoMapper_Sample\obj\Debug\AutoMapper_Sample.pdb
+C:\Users\lucas\Documents\Projetos\AutoMapper_Sample\AutoMapper_Sample\bin\Ninject.dll
+C:\Users\lucas\Documents\Projetos\AutoMapper_Sample\AutoMapper_Sample\bin\Ninject.Web.Common.dll
+C:\Users\lucas\Documents\Projetos\AutoMapper_Sample\AutoMapper_Sample\bin\Ninject.Web.Mvc.dll
+C:\Users\lucas\Documents\Projetos\AutoMapper_Sample\AutoMapper_Sample\bin\WebActivatorEx.dll
+C:\Users\lucas\Documents\Projetos\AutoMapper_Sample\AutoMapper_Sample\bin\Ninject.xml
+C:\Users\lucas\Documents\Projetos\AutoMapper_Sample\AutoMapper_Sample\bin\Ninject.Web.Common.xml
+C:\Users\lucas\Documents\Projetos\AutoMapper_Sample\AutoMapper_Sample\bin\Ninject.Web.Mvc.xml

@@ -12,6 +12,7 @@ namespace AutoMapper_Sample.AutoMapper
         {
             Mapper.Initialize(x =>
             {
+                //x.ConstructServicesUsing()
                 x.AddProfile<DomainToViewModelMappingProfile>();
                 x.AddProfile<ViewModelToDomainMappingProfile>();
             });
